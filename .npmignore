@@ -24,6 +24,7 @@
 /testem.js
 /tests/
 /yarn.lock
+/package-lock.json
 .gitkeep
 
 # ember-try
