@@ -1,1 +1,1 @@
-export { default, initialize } from 'ember-pace/initializers/ember-pace';
+export { default, initialize } from '@appknox/ember-pace/initializers/ember-pace';

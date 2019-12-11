@@ -1,13 +1,13 @@
 {
   "name": "@appknox/ember-pace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ember addon for pace",
   "keywords": [
     "ember-addon",
     "pace",
     "pace-progressbar"
   ],
-  "repository": "",
+  "repository": "https://github.com/appknox/ember-pace",
   "license": "MIT",
   "author": "Appknox <engineering@appknox.com>",
   "directories": {
